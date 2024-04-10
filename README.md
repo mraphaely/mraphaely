@@ -1,4 +1,4 @@
-## Olá! Eu sou Maryana Raphaely
+## Hi! I'm Maryana Raphaely
 - 🔭 I’m currently working on Front-End and Back-End
 - 🌱 I’m currently learning React
 
