@@ -1,4 +1,4 @@
-## Hi! I'm Maryana Raphaely
+## Olá! Eu sou Maryana Raphaely
 - 🔭 I’m currently working on Front-End and Back-End
 - 🌱 I’m currently learning React
 
@@ -13,6 +13,7 @@
   <img align="center" alt="Mary-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mary-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mary-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
 </div>
 
 <!---
