@@ -1,5 +1,5 @@
 ## Olá! Eu sou Maryana Raphaely
-- 🔭 I’m currently working on Front-End and Back-End
+- 🔭 I’m devloper fullStack
 - 🌱 I’m currently learning React
 
 <div align="center">
@@ -14,6 +14,7 @@
   <img align="center" alt="Mary-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mary-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mary-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Mary-Git" height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   
 </div>
 
@@ -25,7 +26,7 @@
   <a href = "mailto:raphaelymaryana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
   
-<!-- ![Snake animation](https://github.com/mraphaely/mraphaely/blob/output/github-contribution-grid-snake.svg)-->
+![Snake animation](https://github.com/mraphaely/mraphaely/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
