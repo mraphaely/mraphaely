@@ -32,7 +32,7 @@
 </div>
 
 <!-- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
-<!-- <img align="right" alt="Mary-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
+ <img align="right" alt="Mary-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> 
 
 <!---
 mraphaely/mraphaely is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
