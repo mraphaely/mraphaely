@@ -1,4 +1,4 @@
-## Olá, mundo!
+## Hello, World!
 - 🔭 I’m devloper fullStack
 - 🌱 I’m currently learning React
 
