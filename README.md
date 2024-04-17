@@ -1,4 +1,4 @@
-## Olá! Eu sou Maryana Raphaely
+## Olá, mundo!
 - 🔭 I’m devloper fullStack
 - 🌱 I’m currently learning React
 
