@@ -27,8 +27,7 @@
   <a href = "mailto:raphaelymaryana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maryanaraphaely6870" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryanaraphaely6870) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram &logoColor=white)](https://www.linkedin.com/in/maryanaraphaely6870) 
+
  
    
   
