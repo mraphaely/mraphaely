@@ -1,4 +1,6 @@
 ## Hello, World!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F71DD5&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+Sofia+Ara%C3%BAjo!)](https://git.io/typing-svg)
+
 - 🔭 I’m devloper fullStack
 - 🌱 I’m currently learning React
 
