@@ -37,12 +37,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mraphaely/mraphaely/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mraphaely/mraphaely/output/github-contribution-grid-snake.svg">
 </picture>
-   
-  
-<!--  ![snake gif](https://github.com/mraphaely/mraphaely/blob/output/github-contribution-grid-snake.gif) -->
   
 </div>
-
 
 <!---
 mraphaely/mraphaely is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
