@@ -32,7 +32,7 @@
 
 ##
 
- <!-- ![snake gif](https://github.com/mraphaely/mraphaely/blob/output/github-contribution-grid-snake.gif)-->
+ ![snake gif](https://github.com/mraphaely/mraphaely/blob/output/github-contribution-grid-snake.gif)
 
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mraphaely/mraphaely/output/github-contribution-grid-snake-dark.svg">
