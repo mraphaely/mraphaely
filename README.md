@@ -2,9 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=%237159c1?&random=false&width=435&lines=Hello%2C+World!)](https://git.io/typing-svg)
 
-
-<div>
 ##
+<div>
 - 🔭 I’m devloper fullStack
 - 🌱 I’m currently learning ` Reactjs ` .
 </div>
