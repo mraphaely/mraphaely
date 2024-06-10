@@ -26,7 +26,7 @@
   <img align="center" alt="Mary-Git" height="30" width="33" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   <img align="center" alt="Mary-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mary-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Mary-Jest" height="30" width="28" src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png">
+  <img align="center" alt="Mary-Jest" height="28" width="28" src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png">
   
 </div>
 
