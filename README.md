@@ -48,6 +48,11 @@
 </picture>
   
 </div>
+##
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mraphaely/count.svg" />
+</p>
 
 <!---
 mraphaely/mraphaely is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
