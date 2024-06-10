@@ -53,6 +53,7 @@
 
 <p align="center"> 
   Visitor count<br>
+   <br/>
   <img src="https://profile-counter.glitch.me/mraphaely/count.svg" />
 </p>
 
