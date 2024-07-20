@@ -28,7 +28,7 @@
   <img align="center" alt="Mary-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Mary-Jest" height="28" width="28" src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png">
   <img align="center" alt="Mary-figma" height="30" width="30" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000">
-  <img align="center" alt="Atila-MySQL" height="40" width="40" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
+  <img align="center" alt="Atila-MySQL" height="30" width="30" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
   <img align="center" alt="Mary-styledComponents" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_styled_icon_130142.png">
   
 </div>
