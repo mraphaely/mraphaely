@@ -45,7 +45,6 @@
   <a href = "mailto:raphaelymaryana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%237159c1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <a href="https://www.linkedin.com/in/maryanaraphaely6870" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/maryanaraphaely6870" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" target="_blank"></a>
 ##
 
  <picture>
