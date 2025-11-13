@@ -77,6 +77,8 @@
   <img src="https://profile-counter.glitch.me/mraphaely/count.svg" />
 </p>
 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=862fbb&height=120&section=footer"/>
 <!---
 mraphaely/mraphaely is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
