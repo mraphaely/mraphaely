@@ -12,9 +12,7 @@
 
 ##
 
--  I’m devloper fullStack
--  I’m currently learning ` TypeScript ` .
--  I’m have interests in other areas of technology.
+-  I’m devloper fullStack, currently learning ` TypeScript `. Have interests in other areas of technology.
    </br>
 
 
