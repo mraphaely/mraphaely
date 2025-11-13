@@ -11,7 +11,7 @@
 
 
 ##
- <p align="center">I’m devloper fullStack, currently learning ` TypeScript ` . And have interests in other areas of technology.<p/>
+ <p align="center">I’m devloper fullStack, currently learning `TypeScript` . And have interests in other areas of technology.<p/>
 
    </br>
 
