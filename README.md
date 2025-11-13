@@ -36,7 +36,7 @@
   <img align="center" alt="Mary-py" height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="Mary-linux" height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />  
   <img align="center" alt="Mary-postman" height="30" width="28"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-  
+  <img align="center" alt="Mary-javinha" height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Mary-postgree" height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
           
           
