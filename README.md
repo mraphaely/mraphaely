@@ -11,9 +11,9 @@
 
 
 ##
-<span align="center">
+<div align="center">
  I’m devloper fullStack, currently learning ` TypeScript ` . And have interests in other areas of technology.
-<span/>
+<div/>
   
 <div align="center">
   </br>
