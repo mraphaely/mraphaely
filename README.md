@@ -39,7 +39,7 @@
   <img align="center" alt="Mary-typescript" height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="Mary-py" height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="Mary-linux" height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />  
-  <img align="center" alt="Mary-postman" height="30" width="28"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img align="center" alt="Mary-postman" height="30" width="28"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/poswhere to find metman-original.svg" />
   <img align="center" alt="Mary-javinha" height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Mary-postgree" height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
           
@@ -49,10 +49,10 @@
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mraphaely&bg_color=0d1117&color=862fbb&line=862fbb&point=862fbb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
+  Where to find me:
 <div align="center"> 
   </br>
 <!--   <a href="https://twitter.com/MaryanaRaphaely" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> -->
-  Where to find me:
 <div>
   <a href="https://instagram.com/mraphaely_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:raphaelymaryana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%237159c1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
