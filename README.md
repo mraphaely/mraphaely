@@ -8,7 +8,7 @@
 ##
 
 - 🔭 I’m devloper fullStack
-- 🌱 I’m currently learning ` Reactjsx ` .
+- 🌱 I’m currently learning ` TypeScript ` .
 - 🔎 I’m have interests in other areas of technology.
    </br>
 
