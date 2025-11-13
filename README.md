@@ -32,7 +32,8 @@
   <img align="center" alt="Mary-Jest" height="28" width="28" src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png">
   <img align="center" alt="Mary-MySQL" height="30" width="35" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
   <img align="center" alt="Mary-styledComponents" height="35" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_styled_icon_130142.png">
-  
+  <img align="center" alt="Mary-typescript" height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+
 </div>
 
 ##
