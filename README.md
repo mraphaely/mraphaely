@@ -76,15 +76,6 @@
 <p align="center"> 
   Visitor count<br/>
   <img src="https://profile-counter.glitch.me/mraphaely/count.svg" />
-  <p>Visitas: <span id="visitas"></span></p>
-
-<script>
-fetch('https://api.countapi.xyz/hit/mraphaely-site/visitas')
-  .then((res) => res.json())
-  .then((data) => {
-    document.getElementById('visitas').innerText = data.value;
-  });
-</script>
 
 </p>
 
