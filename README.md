@@ -77,6 +77,9 @@
   Visitor count<br/>
  <!-- <img src="https://profile-counter.glitch.me/mraphaely/count.svg" /> -->
    <img src="https://komarev.com/ghpvc/?username=mraphaely" />
+   <img src="https://komarev.com/ghpvc/?username=mraphaely&color=8A2BE2" />
+   <img src="https://img.shields.io/badge/visitas-mraphaely-blueviolet?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/mraphaely/readme&label=Visitas&query=value&color=8A2BE2&style=for-the-badge" />
   
 
 
