@@ -18,9 +18,10 @@
   </br>
       <!--<img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api?username=mraphaely&show_icons=true&count_private=true&hide_border=true&title_color=862fbb&icon_color=862fbb&text_color=ffffff&bg_color=0d1117" alt="mraphaely github stats" /> 
 <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraphaely&layout=compact&hide_border=true&title_color=862fbb&text_color=ffffff&bg_color=0d1117" /> -->
-  <a href="https://github.com/mraphaely"> 
+  
+<!--  <a href="https://github.com/mraphaely"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mraphaely&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraphaely&layout=compact&langs_count=7&theme=midnight-purple"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraphaely&layout=compact&langs_count=7&theme=midnight-purple"/> -->
   </br>
 </div>
 
