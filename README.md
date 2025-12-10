@@ -11,7 +11,7 @@
 
 
 ##
- I’m devloper fullStack, currently learning ` TypeScript ` . And have interests in other areas of technology.
+ I’m devloper fullStack, currently learning ` TypeScript ` & ` Java `  . And have interests in other areas of technology.
 
   
 <div align="center">
