@@ -12,7 +12,10 @@
 
 ##
  I’m devloper fullStack, currently learning ` TypeScript `  and  ` Java `.
+
  And have interests in other areas of technology.
+
+ Graduating in software engineering.
 
   
 <div align="center">
