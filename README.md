@@ -55,9 +55,35 @@
   </br>
 <!--   <a href="https://twitter.com/MaryanaRaphaely" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> -->
 <div>
-  <a href="https://instagram.com/mraphaely_" target="_blank"><img src="https://img.shields.io/badge/--%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <!-- <a href="https://instagram.com/mraphaely_" target="_blank"><img src="https://img.shields.io/badge/--%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:raphaelymaryana@gmail.com"><img src="https://img.shields.io/badge/--%237159c1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maryanaraphaely6870" target="_blank"><img src="https://img.shields.io/badge/-in-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/maryanaraphaely6870" target="_blank"><img src="https://img.shields.io/badge/-in-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> -->
+
+  <div style="display: flex; gap: 10px;">
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/mraphaely_" target="_blank"
+     style="background: #E4405F; padding: 10px; border-radius: 8px; display: flex;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"
+         alt="Instagram" width="22" height="22" style="filter: invert(1);">
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:raphaelymaryana@gmail.com" target="_blank"
+     style="background: #6C47FF; padding: 10px; border-radius: 8px; display: flex;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
+         alt="Gmail" width="22" height="22" style="filter: invert(1);">
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/maryanaraphaely6870" target="_blank"
+     style="background: #0077B5; padding: 10px; border-radius: 8px; display: flex;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
+         alt="LinkedIn" width="22" height="22" style="filter: invert(1);">
+  </a>
+
+</div>
+
 
 
 
