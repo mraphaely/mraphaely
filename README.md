@@ -76,6 +76,12 @@
 <p align="center"> 
   Visitor count<br/>
   <img src="https://profile-counter.glitch.me/mraphaely/count.svg" />
+   <img src="https://komarev.com/ghpvc/?username=mraphaely" />
+   <img src="https://komarev.com/ghpvc/?username=mraphaely" />
+  ![Visitas](https://komarev.com/ghpvc/?username=mraphaely)
+  ![Visitas](https://komarev.com/ghpvc/?username=mraphaely)
+
+
 
 </p>
 
