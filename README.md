@@ -61,39 +61,6 @@
 
 
 
-
-<div style="display: flex; gap: 8px;">
-
-  <!-- Instagram -->
-  <a href="https://instagram.com/mraphaely_" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F"
-      style="border-radius: 8px; height: 32px;"
-    >
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:raphaelymaryana@gmail.com" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=gmail&logoColor=white&color=6C47FF"
-      style="border-radius: 8px; height: 32px;"
-    >
-  </a>
-
-  <!-- LinkedIn (fix usando %20 como placeholder + logo funciona) -->
-  <a href="https://www.linkedin.com/in/maryanaraphaely6870" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5"
-      style="border-radius: 8px; height: 32px;"
-    >
-  </a>
-
-</div>
-
-
-
-
-
 </br>
   
 ##
