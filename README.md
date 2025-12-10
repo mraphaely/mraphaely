@@ -59,30 +59,25 @@
   <a href = "mailto:raphaelymaryana@gmail.com"><img src="https://img.shields.io/badge/--%237159c1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maryanaraphaely6870" target="_blank"><img src="https://img.shields.io/badge/-in-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> -->
 
-  <div style="display: flex; gap: 10px;">
+<div align="center" style="display: flex; gap: 10px;">
 
-  <!-- Instagram -->
-  <a href="https://instagram.com/mraphaely_" target="_blank"
-     style="background: #E4405F; padding: 10px; border-radius: 8px; display: flex;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"
-         alt="Instagram" width="22" height="22" style="filter: invert(1);">
+  <a href="https://instagram.com/mraphaely_" target="_blank">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg"
+         width="40" height="40" style="background: #E4405F; padding: 10px; border-radius: 12px;">
   </a>
 
-  <!-- Gmail -->
-  <a href="mailto:raphaelymaryana@gmail.com" target="_blank"
-     style="background: #6C47FF; padding: 10px; border-radius: 8px; display: flex;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
-         alt="Gmail" width="22" height="22" style="filter: invert(1);">
+  <a href="mailto:raphaelymaryana@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg"
+         width="40" height="40" style="background: #6C47FF; padding: 10px; border-radius: 12px;">
   </a>
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/maryanaraphaely6870" target="_blank"
-     style="background: #0077B5; padding: 10px; border-radius: 8px; display: flex;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
-         alt="LinkedIn" width="22" height="22" style="filter: invert(1);">
+  <a href="https://www.linkedin.com/in/maryanaraphaely6870" target="_blank">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"
+         width="40" height="40" style="background: #0077B5; padding: 10px; border-radius: 12px;">
   </a>
 
 </div>
+
 
 
 
