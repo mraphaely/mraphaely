@@ -78,7 +78,7 @@
  <!-- <img src="https://profile-counter.glitch.me/mraphaely/count.svg" /> -->
    <img src="https://komarev.com/ghpvc/?username=mraphaely" />
    <img src="https://visitor-badge.laobi.icu/badge?page_id=mraphaely" />
-   <img src="https://komarev.com/ghpvc/?username=mraphaely](https://mraphaely-counter.vercel.app/api/visits" />
+   <img src="https://mraphaely-counter.vercel.app/api/visits" />
 
 
 
