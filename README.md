@@ -55,9 +55,9 @@
   </br>
 <!--   <a href="https://twitter.com/MaryanaRaphaely" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> -->
 <div>
- <!-- <a href="https://instagram.com/mraphaely_" target="_blank"><img src="https://img.shields.io/badge/--%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/mraphaely_" target="_blank"><img src="https://img.shields.io/badge/--%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:maryanar.dev@gmail.com"><img src="https://img.shields.io/badge/--%237159c1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maryanaraphaely6870" target="_blank"><img src="https://img.shields.io/badge/-in-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> -->
+  <a href="https://www.linkedin.com/in/maryanaraphaely6870" target="_blank"><img src="https://img.shields.io/badge/-in-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
 
 <div align="center" style="display: flex; gap: 10px;">
 
