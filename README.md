@@ -60,6 +60,35 @@
   <a href="https://www.linkedin.com/in/maryanaraphaely6870" target="_blank"><img src="https://img.shields.io/badge/-in-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
 
+  <div style="display: flex; gap: 8px;">
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/mraphaely_" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/--E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+      style="border-radius: 6px; height: 28px;"
+    >
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:raphaelymaryana@gmail.com" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/--6c47ff?style=for-the-badge&logo=gmail&logoColor=white" 
+      style="border-radius: 6px; height: 28px;"
+    >
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/maryanaraphaely6870" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/--0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      style="border-radius: 6px; height: 28px;"
+    >
+  </a>
+
+</div>
+
+
 
 </br>
   
