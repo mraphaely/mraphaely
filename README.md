@@ -16,8 +16,8 @@
   
 <div align="center">
   </br>
-      <!--<img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api?username=mraphaely&show_icons=true&count_private=true&hide_border=true&title_color=862fbb&icon_color=862fbb&text_color=ffffff&bg_color=0d1117" alt="mraphaely github stats" /> 
-<img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraphaely&layout=compact&hide_border=true&title_color=862fbb&text_color=ffffff&bg_color=0d1117" /> -->
+      <<img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api?username=mraphaely&show_icons=true&count_private=true&hide_border=true&title_color=862fbb&icon_color=862fbb&text_color=ffffff&bg_color=0d1117" alt="mraphaely github stats" /> 
+<img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraphaely&layout=compact&hide_border=true&title_color=862fbb&text_color=ffffff&bg_color=0d1117" /> 
   
 <!--  <a href="https://github.com/mraphaely"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mraphaely&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> 
@@ -57,7 +57,7 @@
 <div>
   <a href="https://instagram.com/mraphaely_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:raphaelymaryana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%237159c1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maryanaraphaely6870" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a
+  <a href="https://www.linkedin.com/in/maryanaraphaely6870" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=5px" target="_blank"></a
 
 </br>
   
