@@ -77,7 +77,6 @@
 <!--  Visitor count<br/>
   <img src="https://profile-counter.glitch.me/mraphaely/count.svg" /> -->
    <img src="https://komarev.com/ghpvc/?username=mraphaely&label=Visitor%20Count&color=8A2BE2&style=flat" />
-   <img src="https://komarev.com/ghpvc/?username=mraphaely&label=&color=8A2BE2&style=flat" />
   
   
 
