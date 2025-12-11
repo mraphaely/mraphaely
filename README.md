@@ -35,7 +35,8 @@
   ##
 <div style="display: inline_block" align="center">
   Frontend
-  <br/>
+  </br>
+  
   <img align="center" alt="Mary-figma" height="30" width="30" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000">  
   <img align="center" alt="Mary-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mary-Axios" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg">
@@ -44,6 +45,7 @@
 
   ##
   Backend
+  </br>
   
   <img align="center" alt="Mary-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Mary-typescript" height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -54,7 +56,8 @@
 
 
 ##
-  Additional Skills      
+  Additional Skills 
+  </br>
   
   <img align="center" alt="Mary-linux" height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />  
   <img align="center" alt="Mary-MySQL" height="30" width="35" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
