@@ -36,12 +36,14 @@
 <div style="display: inline_block" align="center"><br>
   </br>
   Frontend
+  
   <img align="center" alt="Mary-figma" height="30" width="30" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000">  
   <img align="center" alt="Mary-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mary-Axios" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg">
   <img align="center" alt="Mary-styledComponents" height="35" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_styled_icon_130142.png">
   
   Backend
+  
   <img align="center" alt="Mary-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Mary-typescript" height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="Mary-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
@@ -49,7 +51,8 @@
   <img align="center" alt="Mary-javinha" height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Mary-postman" height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 
-  Additional Skills        
+  Additional Skills      
+  
   <img align="center" alt="Mary-MySQL" height="30" width="35" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
   <img align="center" alt="Mary-linux" height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />  
   <img align="center" alt="Mary-Jest" height="28" width="28" src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png">
