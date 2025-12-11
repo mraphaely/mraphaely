@@ -18,7 +18,7 @@
  - Graduating in software engineering.
 
   
-<div >
+<!-- <div >
   </br>
   <!--
       <<img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api?username=mraphaely&show_icons=true&count_private=true&hide_border=true&title_color=862fbb&icon_color=862fbb&text_color=ffffff&bg_color=0d1117" alt="mraphaely github stats" /> 
@@ -32,7 +32,7 @@
   <img align="center" alt="Mary-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mary-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
   </br>
-</div>
+</div> -->
   
   ##
 <div style="display: inline_block" align="center">
