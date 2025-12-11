@@ -63,7 +63,7 @@
   
 <div>
   <a href = "mailto:maryanar.dev@gmail.com"><img src="https://img.shields.io/badge/-gmail-%237159c1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maryanaraphaely6870" target="_blank"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"> 
+  <a href="https://www.linkedin.com/in/maryanaraphaely6870" target="_blank"><img height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank"> 
   <a href="https://instagram.com/mraphaely_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 
 
