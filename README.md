@@ -11,18 +11,19 @@
 
 
 ##
- 🐝 I’m devloper fullStack, currently learning ` Java `.
+ - I’m devloper fullStack, currently learning ` Java `.
  
- 🔍 Have interests in other areas of technology.
+ - Have interests in other areas of technology.
  
- 🎓 Graduating in software engineering.
+ - Graduating in software engineering.
 
   
 <div >
   </br>
+  <!--
       <<img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api?username=mraphaely&show_icons=true&count_private=true&hide_border=true&title_color=862fbb&icon_color=862fbb&text_color=ffffff&bg_color=0d1117" alt="mraphaely github stats" /> 
 <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraphaely&layout=compact&hide_border=true&title_color=862fbb&text_color=ffffff&bg_color=0d1117" /> 
-  
+  -->
 <!--  <a href="https://github.com/mraphaely"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mraphaely&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraphaely&layout=compact&langs_count=7&theme=midnight-purple"/> -->
@@ -32,9 +33,9 @@
   <img align="center" alt="Mary-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
   </br>
 </div>
-
-<div style="display: inline_block" align="center"><br>
-  </br>
+  
+  ##
+<div style="display: inline_block" align="center">
   Frontend
   <br/>
   <img align="center" alt="Mary-figma" height="30" width="30" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000">  
@@ -67,44 +68,31 @@
 ##
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mraphaely&bg_color=0d1117&color=862fbb&line=862fbb&point=862fbb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-
-
   </br>
-<!--   <a href="https://twitter.com/MaryanaRaphaely" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  -->
-  
-
-  
-  Where to find me
-  <div align="center"> 
-  <a href = "mailto:maryanar.dev@gmail.com"><img src="https://img.shields.io/badge/--%237159c1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maryanaraphaely6870" target="_blank"><img height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank">  
-  <a href="https://instagram.com/mraphaely_" target="_blank"><img src="https://img.shields.io/badge/--%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  </div>
-
-</br>
-  
-##
-<div/>
+<div align= "center">
+   <img src="https://komarev.com/ghpvc/?username=mraphaely&label=Visitor%20Count&color=8A2BE2&style=flat" />
+</div>
+<div align= "center">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mraphaely/mraphaely/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mraphaely/mraphaely/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mraphaely/mraphaely/output/github-contribution-grid-snake.svg">
 </picture>
-  
 </div>
 
 ##
 
-<p align="center"> 
-<!--  Visitor count<br/>
-  <img src="https://profile-counter.glitch.me/mraphaely/count.svg" /> -->
-   <img src="https://komarev.com/ghpvc/?username=mraphaely&label=Visitor%20Count&color=8A2BE2&style=flat" />
+  <div align="center"> 
+  Where to find me
+    <br/>
+  <a href = "mailto:maryanar.dev@gmail.com"><img src="https://img.shields.io/badge/--%237159c1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/maryanaraphaely6870" target="_blank"><img height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank">  
+  <a href="https://instagram.com/mraphaely_" target="_blank"><img src="https://img.shields.io/badge/--%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+
+  <br/>
+  <br/>
   
-  
-
-
-
-</p>
+  </div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=862fbb&height=120&section=footer"/>
