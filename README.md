@@ -38,7 +38,7 @@
   Frontend
   </br>
   
-  <img align="center" alt="Mary-front" src="https://skillicons.dev/icons?i=react,bootstrap,styledcomponents,nextjs,tailwindcss">  
+  <img align="center" alt="Mary-front" src="https://skillicons.dev/icons?i=react,bootstrap,sass,styledcomponents,nextjs,tailwindcss">  
 
 
   ##
