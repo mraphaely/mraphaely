@@ -49,19 +49,15 @@
   Backend
   </br>
   
-  <img align="center" alt="Mary-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Mary-typescript" height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="Mary-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
-  <img align="center" alt="Mary-py" height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" alt="Mary-javinha" height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Mary-postman" height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img align="center" alt="MR-back" src="https://skillicons.dev/icons?i=nodejs,typescript,express,java,python">
+  
 
 
 ##
   Additional Skills 
   </br>
 
-  <img align="center" alt="MR-back" src="https://skillicons.dev/icons?i=figma,linux,jest,git,postgresql" />
+  <img align="center" alt="MR-skills" src="https://skillicons.dev/icons?i=figma,linux,jest,git,postgresql" />
   
 </div>
 
