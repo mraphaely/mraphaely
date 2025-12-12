@@ -77,7 +77,7 @@
   <div align="center"> 
   Where to find me
     <br/>
-  <a href = "mailto:maryanar.dev@gmail.com"><img src="https://img.shields.io/badge/--%237159c1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:maryanar.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maryanaraphaely6870" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank">  
   <a href="https://instagram.com/mraphaely_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" target="_blank"></a> 
 
