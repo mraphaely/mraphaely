@@ -38,11 +38,7 @@
   Frontend
   </br>
   
-  <img align="center" alt="Mary-figma" height="30" width="30" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000">  
-  <img align="center" alt="Mary-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Mary-Axios" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg">
-  <img align="center" alt="Mary-styledComponents" height="35" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_styled_icon_130142.png">
-  <img align="center" alt="Mary-tailwindcss" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Mary-front" src="https://skillicons.dev/icons?i=react,bootstrap,styledcomponents,nextjs,tailwindcss">  
 
 
   ##
