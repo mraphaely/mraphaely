@@ -64,7 +64,7 @@
   <img align="center" alt="Mary-linux" height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />  
   <img align="center" alt="Mary-MySQL" height="30" width="35" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
   <img align="center" alt="Mary-Jest" height="28" width="28" src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png">
-  <img align="center" alt="Mary-postgree" height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Mary-postgree" height="30" width="28" src="https://skillicons.dev/icons?i=figma,linux,jest,git,postgresql" />
   <img align="center" alt="Mary-Git" height="30" width="33" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
 </div>
 
